@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Gibson";
+  src: local("Gibson"),
+   url("./fonts/Gibson/Gibson-Regular.ttf") format("truetype");
+  font-weight: normal;
+  }
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
